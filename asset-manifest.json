@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/hostprc/static/css/main.31d6cfe0.css",
+    "main.js": "/hostprc/static/js/main.c69a3185.js",
+    "index.html": "/hostprc/index.html",
+    "main.c69a3185.js.map": "/hostprc/static/js/main.c69a3185.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.c69a3185.js"
+  ]
+}
